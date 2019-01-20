@@ -1,0 +1,158 @@
+fileFormatVersion: 2
+guid: 3b40a2d8e9b370548b0605e239a6a0af
+timeCreated: 1547699138
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: durian
+    100002: flower_lotus
+    100004: flower_pussy
+    100006: flower_sharp
+    100008: flower_tulip
+    100010: ghord_lantern
+    100012: ghord_root_legs
+    100014: luck_stone
+    100016: mushroom_big
+    100018: mushroom_cluster
+    100020: orb_nest
+    100022: pineapple
+    100024: rock
+    100026: //RootNode
+    400000: durian
+    400002: flower_lotus
+    400004: flower_pussy
+    400006: flower_sharp
+    400008: flower_tulip
+    400010: ghord_lantern
+    400012: ghord_root_legs
+    400014: luck_stone
+    400016: mushroom_big
+    400018: mushroom_cluster
+    400020: orb_nest
+    400022: pineapple
+    400024: rock
+    400026: //RootNode
+    2100000: lambert1
+    2100002: pasted__Fruit_VC
+    2100004: pasted__worm_vertex_lambert
+    2300000: durian
+    2300002: flower_lotus
+    2300004: flower_pussy
+    2300006: flower_sharp
+    2300008: flower_tulip
+    2300010: ghord_lantern
+    2300012: ghord_root_legs
+    2300014: luck_stone
+    2300016: mushroom_big
+    2300018: mushroom_cluster
+    2300020: orb_nest
+    2300022: pineapple
+    2300024: rock
+    3300000: durian
+    3300002: flower_lotus
+    3300004: flower_pussy
+    3300006: flower_sharp
+    3300008: flower_tulip
+    3300010: ghord_lantern
+    3300012: ghord_root_legs
+    3300014: luck_stone
+    3300016: mushroom_big
+    3300018: mushroom_cluster
+    3300020: orb_nest
+    3300022: pineapple
+    3300024: rock
+    4300000: flower_sharp
+    4300002: durian
+    4300004: pineapple
+    4300006: rock
+    4300008: ghord_root_legs
+    4300010: luck_stone
+    4300012: flower_tulip
+    4300014: flower_lotus
+    4300016: flower_pussy
+    4300018: orb_nest
+    4300020: ghord_lantern
+    4300022: mushroom_big
+    4300024: mushroom_cluster
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
